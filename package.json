@@ -1,0 +1,16 @@
+{
+  "name": "web-component-ui-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/web-component-ui/bin/wui -c -d -w -s",
+    "build": "node node_modules/web-component-ui/bin/wui -c -d",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web-component-ui": "0.0.12"
+  }
+}
