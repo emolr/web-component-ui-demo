@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "web-component-ui": "0.0.12"
+    "web-component-ui": "^0.0.13"
   }
 }
