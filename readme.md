@@ -8,12 +8,12 @@ This project serves as a test project when working on the web-component-ui cli t
 $ npm install
 ```
 
-## Start the demo
+## Start the project
 ```
 npm start
 ```
 
-## Build the demo
+## Build the project
 ```
 npm run build
 ```
