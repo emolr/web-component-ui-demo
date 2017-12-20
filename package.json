@@ -10,7 +10,8 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "web-component-ui": "^0.0.13"
+  "dependencies": {},
+  "devDependencies": {
+    "web-component-ui": ">= 0.0.14"
   }
 }
