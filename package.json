@@ -1,5 +1,5 @@
 {
-  "name": "web-component-ui-demo",
+  "name": "web-component-ui-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "web-component-ui": ">= 0.0.14"
+    "web-component-ui": "emolr/web-component-ui"
   }
 }
