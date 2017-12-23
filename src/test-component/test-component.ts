@@ -9,6 +9,7 @@ export class TestComponent extends HTMLElement {
             </style>
             <slot></slot>
         `
+        console.log('construct')
     }
 }
 

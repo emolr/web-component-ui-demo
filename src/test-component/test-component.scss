@@ -1,3 +1,4 @@
+$color: red;
 :host {
-    color: red;
+    color: $color;
 }
